@@ -1,13 +1,6 @@
-<div align="center">
-    <img src="https://www.graphicaction.com.au/wp-content/uploads/2020/10/comic-books-featured.png"/ height = 300 width = 100%>
-</div>
+## Bubble Vision
 
-<div align="center">
-
-# Bubble Vision
-
-Automatic detection of formal features of comic book page \
-Siddhanth U Hegde-Nilesh Rathi-Abhishek V Dhar
+Automatic detection of formal features of comic book page 
 </div>
 
 ## Info
@@ -100,8 +93,15 @@ This Repository contains the code to train and infer comic book page and get the
 }
 ```
 
-## References:
+## Results
+
+<img width="851" alt="image" src="https://github.com/nileshrathi99/bubble-vision/assets/32071800/d6a1aee0-532c-4908-a922-9cfd219bc64e">
+
+<img width="377" alt="image" src="https://github.com/nileshrathi99/bubble-vision/assets/32071800/e67cba2e-e08e-468b-b9a9-765eb34cfbf3">
+
+## References
 
 Yolov5 code: https://github.com/ultralytics/yolov5
 Faster R-CNN: https://pytorch.org/vision/main/models/faster_rcnn.html
 The Dataset used was from: https://obj.umiacs.umd.edu/comics/index.html 
+
